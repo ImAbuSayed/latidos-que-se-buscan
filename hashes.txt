@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Latidos que se buscan, Vol. 2
+
+This log tracks the cryptographic history and versioning for the song **Latidos que se buscan, Vol. 2** (latidos-que-se-buscan-vol-2).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-21T10:33:31.070088 | `v1` | `74f2451707a9b3a78657e62320b388efd62906e565b3480c13ce0918ea037379` | `13c51a4a48a0169b0d725c97cf1ec057beda46203ca7092a8457a646ae79f342` | `2026-06-21_latidos-que-se-buscan-vol-2-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

@@ -1,4 +1,4 @@
-# Latidos que se buscan
+# Latidos que se buscan, Vol. 2
 
 ---
 
@@ -10,12 +10,12 @@
 
 | Field | Details |
 |-------|---------|
-| **Title** | Latidos que se buscan |
+| **Title** | Latidos que se buscan, Vol. 2 |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/latidos-que-se-buscan/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Latidos que se buscan](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/latidos-que-se-buscan/) |
+| **Get License** | [Get License For Latidos que se buscan, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/latidos-que-se-buscan/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Esta noche la calle se enciende y te busco en la oscuridad
+> Tus latidos me llaman de lejos, rompiendo mi tranquilidad
+> Baby, vente conmigo a perdernos por toda la gran ciudad
+> Que este fuego que siento por ti ya no es casualidad
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,8 +110,8 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
-| **Timestamp** | June 20, 2026 |
+| **SHA-256 Hash** | `74f2451707a9b3a78657e62320b388efd62906e565b3480c13ce0918ea037379` |
+| **Timestamp** | June 21, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
 
